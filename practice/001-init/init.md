@@ -25,3 +25,5 @@
         - `git commit -m "开始的开始"` （打点保存，名为"做了一点修改"）
         - `git push -u origin master`（把本地代码推到`origin`上去，其实就是github上）
       - 然后就是重复以上三部
+
+- yo
